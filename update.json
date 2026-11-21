@@ -1,8 +1,8 @@
 {
-  "versionCode": 193,
-  "versionName": "2.1.16",
-  "url": "https://github.com/iancardozo09/mk-updates/releases/download/v2.1.16/MK_PRO_v2.1.16.apk",
-  "sha256": "3f9266ea5aeea5ebb2cee2cdafb50d22abd952a1db823ad0d578503aafc3cc13",
+  "versionCode": 199,
+  "versionName": "2.1.17",
+  "url": "https://github.com/iancardozo09/mk-updates/releases/download/v2.1.17/MK_PRO_v2.1.17.apk",
+  "sha256": "fd65d34b99e29422354087ca8dbd11d6bd98662dd5ded09902a9982327438348",
   "obrigatoria": true,
   "notas": ""
 }
